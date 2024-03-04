@@ -1,0 +1,21 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "token minter",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.18.3",
+    "@solana/web3.js": "^1.90.0",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
